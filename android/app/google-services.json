@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "657821912297",
+    "project_id": "lmsapp-5730b",
+    "storage_bucket": "lmsapp-5730b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657821912297:android:a95e93e45b42be698ff478",
+        "android_client_info": {
+          "package_name": "com.example.intenee_learning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657821912297-t5iltf2p73oh3a1aebrghlkua9nnfmhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChje8P0J7l9k0ERBTsbgZ9NfPRjA8qssE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657821912297-t5iltf2p73oh3a1aebrghlkua9nnfmhh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657821912297-r6ro36u8cjonagihb5uo1iten8pj3o0r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.inteneeLearningApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
